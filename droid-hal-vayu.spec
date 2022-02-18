@@ -20,15 +20,9 @@
 %{nil}
 
 %define straggler_files \
-  /acct \
-  /bugreports \
-  /cache \
-  /d \
-  /odm \
-  /oem \
-  /product \
-  /sdcard \
-  /storage \
+   /bugreports \
+   /d \
+   /sdcard \
 %{nil}
 
 # On Android 8 the system partition is (intended to be) mounted on /.
