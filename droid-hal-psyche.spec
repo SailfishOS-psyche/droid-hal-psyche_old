@@ -21,6 +21,7 @@
 
 %define straggler_files \
    /bugreports \
+   /cache \
    /d \
    /sdcard \
 %{nil}
