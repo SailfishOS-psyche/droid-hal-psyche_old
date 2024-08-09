@@ -8,6 +8,9 @@
 %define rpm_device psyche
 %define installable_zip 1
 
+%define enable_dtbo_update 1
+%define enable_vendor_boot_update 1
+
 %define droid_target_aarch64 1
 
 # IMPORTANT if you want to comment out any macros in your .spec, delete the %
